@@ -4,6 +4,6 @@
 
 # GeoComputeLab's Website
 
-Visit **[geocomputelab.github.io/CityAI](https://geocomputelab.github.io/CityAI)** 🚀
+Visit **[geocomputelab.github.io/city-ai](https://geocomputelab.github.io/city-ai)** 🚀
 
 _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
