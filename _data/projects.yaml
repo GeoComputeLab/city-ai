@@ -1,0 +1,38 @@
+- title: NSF Anvil Supercomputer
+  subtitle: National Composable Advanced Computational Resource
+  group: featured
+  image: images/background.jpg
+  link: https://www.rcac.purdue.edu/anvil
+  description: A national-scale advanced computing resource (NSF OAC-2005632) delivering 5.3 Petaflops with AMD Epyc CPUs, NVIDIA A100/H100 GPUs, and Kubernetes composable subsystems.
+  tags:
+    - CI Platform
+    - HPC
+
+- title: StreamCI Platform
+  subtitle: AI-Ready Streaming Data Cyberinfrastructure
+  group: featured
+  image: images/background.jpg
+  link: https://www.rcac.purdue.edu/
+  description: An NSF-funded streaming data platform (OAC-2513947) enabling real-time IoT and sensor ingestion for high-velocity urban analytics.
+  tags:
+    - Streaming Data
+    - IoT
+
+- title: NSF HDR I-GUIDE Platform
+  subtitle: Geospatial Data-Intensive Convergence Research & Education
+  group: featured
+  image: images/background.jpg
+  link: https://i-guide.io/
+  description: An NSF-funded national geospatial discovery environment (OAC-2118329) hosting interactive JupyterHub workflows and convergence curriculum.
+  tags:
+    - CyberGIS
+    - Geospatial
+
+- title: MURD-ViT
+  subtitle: Multimodal Urban Retrofitting Detection
+  image: images/background.jpg
+  link: https://i-guide.io/i-guide-vco/urban-retrofitting-detection-with-vision-transformer/
+  description: Vision Transformer and street view imagery framework for fine-grained urban retrofitting detection; 1st Place Winner in the I-GUIDE Spatial AI Challenge.
+  tags:
+    - GeoAI
+    - Computer Vision

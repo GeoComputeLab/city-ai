@@ -1,0 +1,444 @@
+# DO NOT EDIT, GENERATED AUTOMATICALLY
+
+- id: doi:10.1016/j.apgeog.2026.103992
+  title: Does stadium construction drive surrounding urban development? Evidence from
+    spatiotemporal impacts of large-scale stadiums in China
+  authors:
+  - Shuqi Jin
+  - Yang Shao
+  - Robert Oliver
+  - Fangzheng Lyu
+  publisher: Applied Geography
+  date: '2026-05-01'
+  link: https://doi.org/hcg2f2
+  orcid: 0000-0001-5180-0380
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/19475683.2026.2639769
+  title: Converging high-performance computing and machine learning for geospatial
+    discovery and innovation
+  authors:
+  - Fangzheng Lyu
+  - Yunfan Kang
+  - Shaowen Wang
+  publisher: Annals of GIS
+  date: '2026-03-03'
+  link: https://doi.org/hcg2f3
+  orcid: 0000-0001-5180-0380
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/LGRS.2026.3693969
+  title: 'FG-TreeSeg: Flow-Guided Tree Crown Segmentation Without Instance Annotations'
+  authors:
+  - Pengyu Chen
+  - Fangzheng Lyu
+  - Sicheng Wang
+  - Cuizhen Wang
+  publisher: IEEE Geoscience and Remote Sensing Letters
+  date: '2026-01-01'
+  link: https://doi.org/hcg2f4
+  orcid: 0000-0001-5180-0380
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/su172310437
+  title: Analysis of the Multi-Scale Spatial Heterogeneity of Factors Influencing
+    the Electric Bike-Sharing Travel Demand in Small and Medium-Sized Cities
+  authors:
+  - Xin Wang
+  - Zhiyuan Peng
+  - Xuefeng Li
+  - Mingyang Du
+  - Fangzheng Lyu
+  - Jeon-Young Kang
+  - Kangjae Lee
+  - Dong Liu
+  publisher: Sustainability
+  date: '2025-11-21'
+  link: https://doi.org/hcg2f5
+  orcid: 0000-0001-5180-0380
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/tgis.70096
+  title: A Video Machine Learning Framework for Spatiotemporal Analysis of Complex
+    Urban Dynamics
+  authors:
+  - Fangzheng Lyu
+  - Daniel Kiv
+  - Xinlin Ma
+  - Shaowen Wang
+  publisher: Transactions in GIS
+  date: '2025-08-01'
+  link: https://doi.org/hcg2f6
+  orcid: 0000-0001-5180-0380
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5703/1288284317905
+  title: 'Evaluating the Evaluation Matrices: Integrating Spatial Assessment in Geospatial
+    AI Model Training and Evaluation'
+  authors:
+  - Fangzheng Lyu
+  publisher: I-GUIDE Forum Proceedings
+  date: '2025-07-21'
+  link: https://doi.org/hcg2f7
+  orcid: 0000-0001-5180-0380
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/grow.70018
+  title: 'Revitalizing Cities: The 5R Framework Approach to Urban Retrofitting and
+    Big Data Insights'
+  authors:
+  - Xinlin Ma
+  - Yan Song
+  - Fangzheng Lyu
+  - Yang Yang
+  - Yuhua Wang
+  - Xijing Li
+  - Shaopeng Zhong
+  publisher: Growth and Change
+  date: '2025-01-03'
+  link: https://doi.org/hcg2f8
+  orcid: 0000-0001-5180-0380
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-031-87421-5_8
+  title: Converging GeoAI and CyberGIS for Human Geography
+  authors:
+  - Fangzheng Lyu
+  publisher: Springer Geography
+  date: '2025-01-01'
+  link: https://doi.org/hcg2f9
+  orcid: 0000-0001-5180-0380
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/JSTARS.2024.3506879
+  title: 'Multistream STGAN: A Spatiotemporal Image Fusion Model With Improved Temporal
+    Transferability'
+  authors:
+  - Fangzheng Lyu
+  - Zijun Yang
+  - Chunyuan Diao
+  - Shaowen Wang
+  publisher: IEEE Journal of Selected Topics in Applied Earth Observations and Remote
+    Sensing
+  date: '2025-01-01'
+  link: https://doi.org/hcg2gb
+  orcid: 0000-0001-5180-0380
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3626203.3670615
+  title: 'NetPointLib: Library for Large-Scale Spatial Network Point Data Fusion and
+    Analysis'
+  authors:
+  - Yunfan Kang
+  - Fangzheng Lyu
+  - Shaowen Wang
+  publisher: 'Practice and Experience in Advanced Research Computing 2024: Human Powered
+    Computing'
+  date: '2024-07-17'
+  link: https://doi.org/hcg2gc
+  orcid: 0000-0001-5180-0380
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/13658816.2024.2343063
+  title: Mapping dynamic human sentiments of heat exposure with location-based social
+    media data
+  authors:
+  - Fangzheng Lyu
+  - Lixuanwu Zhou
+  - Jinwoo Park
+  - Furqan Baig
+  - Shaowen Wang
+  publisher: International Journal of Geographical Information Science
+  date: '2024-04-30'
+  link: https://doi.org/hbbtfx
+  orcid: 0000-0001-5180-0380
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/su16125036
+  title: 'From Individual Motivation to Geospatial Epidemiology: A Novel Approach
+    Using Fuzzy Cognitive Maps and Agent-Based Modeling for Large-Scale Disease Spread'
+  authors:
+  - Zhenlei Song
+  - Zhe Zhang
+  - Fangzheng Lyu
+  - Michael Bishop
+  - Jikun Liu
+  - Zhaohui Chi
+  publisher: Sustainability
+  date: '2024-06-13'
+  link: https://doi.org/hcg2gd
+  orcid: 0000-0001-5180-0380
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5703/1288284317798
+  title: A Convergence Framework for Integrating CyberGIS Education and Research on
+    I-GUIDE Platform
+  authors:
+  - Fangzheng Lyu
+  - Furqan Baig
+  - Yunfan Kang
+  - Erick Li
+  - Anand Padmanabhan
+  - Shaowen Wang
+  publisher: 'I-GUIDE Forum 2024: Convergence Science and Geospatial AI for Environmental
+    Sustainability'
+  date: '2024-01-01'
+  link: https://doi.org/hcg2gf
+  orcid: 0000-0001-5180-0380
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/tgis.13106
+  title: "A <scp>cyberGIS</scp> approach to exploring neighborhood\u2010level social\
+    \ vulnerability for disaster risk management"
+  authors:
+  - Su Yeon Han
+  - "Jeon\u2010Young Kang"
+  - Fangzheng Lyu
+  - Furqan Baig
+  - Jinwoo Park
+  - Danielle Smilovsky
+  - Shaowen Wang
+  publisher: Transactions in GIS
+  date: '2023-09-28'
+  link: https://doi.org/hcg2gg
+  orcid: 0000-0001-5180-0380
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1057/s41599-023-02234-4
+  title: 'From the coast to the interior: global economic evolution patterns and mechanisms'
+  authors:
+  - Xiaoming Jin
+  - Weixin Luan
+  - Jun Yang
+  - Wenze Yue
+  - Shulin Wan
+  - Di Yang
+  - Xiangming Xiao
+  - Bing Xue
+  - Yue Dou
+  - Fangzheng Lyu
+  - Shaohua Wang
+  publisher: Humanities and Social Sciences Communications
+  date: '2023-10-20'
+  link: https://doi.org/gttg2j
+  orcid: 0000-0001-5180-0380
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fenvs.2023.1218819
+  title: "Examine the environmental inequity impact of urban heat mitigation on redlining\
+    \ legacy: case study of Charlotte\u2019s retrofitting, 2001\u20132020"
+  authors:
+  - Xijing Li
+  - Xinlin Ma
+  - Fangzheng Lyu
+  - Yan Song
+  publisher: Frontiers in Environmental Science
+  date: '2023-09-27'
+  link: https://doi.org/g8sd5m
+  orcid: 0000-0001-5180-0380
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.apgeog.2023.102929
+  title: Daily changes in spatial accessibility to ICU beds and their relationship
+    with the case-fatality ratio of COVID-19 in the state of Texas, USA
+  authors:
+  - Jinwoo Park
+  - Alexander Michels
+  - Fangzheng Lyu
+  - Su Yeon Han
+  - Shaowen Wang
+  publisher: Applied Geography
+  date: '2023-05-01'
+  link: https://doi.org/gsqs4b
+  orcid: 0000-0001-5180-0380
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/ijgi11100514
+  title: 'Ndist2vec: Node with Landmark and New Distance to Vector Method for Predicting
+    Shortest Path Distance along Road Networks'
+  authors:
+  - Xu Chen
+  - Shaohua Wang
+  - Huilai Li
+  - Fangzheng Lyu
+  - Haojian Liang
+  - Xueyan Zhang
+  - Yang Zhong
+  publisher: ISPRS International Journal of Geo-Information
+  date: '2022-10-09'
+  link: https://doi.org/hcg2gh
+  orcid: 0000-0001-5180-0380
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s44212-022-00002-4
+  title: An integrated cyberGIS and machine learning framework for fine-scale prediction
+    of Urban Heat Island using satellite remote sensing and urban sensor network data
+  authors:
+  - Fangzheng Lyu
+  - Shaohua Wang
+  - Su Yeon Han
+  - Charlie Catlett
+  - Shaowen Wang
+  publisher: Urban Informatics
+  date: '2022-09-09'
+  link: https://doi.org/hcg2gj
+  orcid: 0000-0001-5180-0380
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jag.2022.102897
+  title: Spatiotemporal assessments of nutrients and water quality in coastal areas
+    using remote sensing and a spatiotemporal deep learning model
+  authors:
+  - Sensen Wu
+  - Jin Qi
+  - Zhen Yan
+  - Fangzheng Lyu
+  - Tao Lin
+  - Yuanyuan Wang
+  - Zhenhong Du
+  publisher: International Journal of Applied Earth Observation and Geoinformation
+  date: '2022-08-01'
+  link: https://doi.org/g5g4zw
+  orcid: 0000-0001-5180-0380
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3491418.3535145
+  title: CyberGIS for Scalable Remote Sensing Data Fusion
+  authors:
+  - Fangzheng Lyu
+  - Zijun Yang
+  - Zimo Xiao
+  - Chunyuan Diao
+  - Jinwoo Park
+  - Shaowen Wang
+  publisher: Practice and Experience in Advanced Research Computing
+  date: '2022-07-08'
+  link: https://doi.org/hcg2gk
+  orcid: 0000-0001-5180-0380
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/tgis.12905
+  title: "A deep trajectory clustering method based on sequence\u2010to\u2010sequence\
+    \ autoencoder model"
+  authors:
+  - Chao Wang
+  - Fangzheng Lyu
+  - Sensen Wu
+  - Yuanyuan Wang
+  - Liuchang Xu
+  - Feng Zhang
+  - Shaowen Wang
+  - Yongheng Wang
+  - Zhenhong Du
+  publisher: Transactions in GIS
+  date: '2022-02-08'
+  link: https://doi.org/hcg2gm
+  orcid: 0000-0001-5180-0380
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cageo.2021.104892
+  title: A vector-based method for drainage network analysis based on LiDAR data
+  authors:
+  - Fangzheng Lyu
+  - Zewei Xu
+  - Xinlin Ma
+  - Shaohua Wang
+  - Zhiyu Li
+  - Shaowen Wang
+  publisher: Computers &amp; Geosciences
+  date: '2021-11-01'
+  link: https://doi.org/hcg2gn
+  orcid: 0000-0001-5180-0380
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-981-15-8983-6_36
+  title: Integrating CyberGIS and Urban Sensing for Reproducible Streaming Analytics
+  authors:
+  - Shaowen Wang
+  - Fangzheng Lyu
+  - Shaohua Wang
+  - Charles E. Catlett
+  - Anand Padmanabhan
+  - Kiumars Soltani
+  publisher: The Urban Book Series
+  date: '2021-01-01'
+  link: https://doi.org/hcg2gp
+  orcid: 0000-0001-5180-0380
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-72808-3_11
+  title: Multi-scale CyberGIS Analytics for Detecting Spatiotemporal Patterns of COVID-19
+  authors:
+  - Fangzheng Lyu
+  - Jeon-Young Kang
+  - Shaohua Wang
+  - Su Yeon Han
+  - Zhiyu Li
+  - Shaowen Wang
+  publisher: Human Dynamics in Smart Cities
+  date: '2021-01-01'
+  link: https://doi.org/hcg2gq
+  orcid: 0000-0001-5180-0380
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12942-020-00229-x
+  title: 'Rapidly measuring spatial accessibility of COVID-19 healthcare resources:
+    a case study of Illinois, USA'
+  authors:
+  - Jeon-Young Kang
+  - Alexander Michels
+  - Fangzheng Lyu
+  - Shaohua Wang
+  - Nelson Agbodo
+  - Vincent L. Freeman
+  - Shaowen Wang
+  publisher: International Journal of Health Geographics
+  date: '2020-09-14'
+  link: https://doi.org/gk7pgm
+  orcid: 0000-0001-5180-0380
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3332186.3333257
+  title: Bridging Local Cyberinfrastructure and XSEDE with CyberGIS-Jupyter
+  authors:
+  - Anand Padmanabhan
+  - Dandong Yin
+  - Fangzheng Lyu
+  - Shaowen Wang
+  publisher: Proceedings of the Practice and Experience in Advanced Research Computing
+    on Rise of the Machines (learning)
+  date: '2019-07-28'
+  link: https://doi.org/hcg2gr
+  orcid: 0000-0001-5180-0380
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3332186.3333052
+  title: Reproducible Hydrological Modeling with CyberGIS-Jupyter
+  authors:
+  - Fangzheng Lyu
+  - Dandong Yin
+  - Anand Padmanabhan
+  - Youngdon Choi
+  - Jonathan L. Goodall
+  - Anthony Castronova
+  - David Tarboton
+  - Shaowen Wang
+  publisher: Proceedings of the Practice and Experience in Advanced Research Computing
+    on Rise of the Machines (learning)
+  date: '2019-07-28'
+  link: https://doi.org/hcg2gs
+  orcid: 0000-0001-5180-0380
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/13658816.2024.2384725
+  tags:
+  - GeoAI
+  - Heat Exposure
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s43762-022-00057-0
+  tags:
+  - Urban Heat Island
+  - CyberGIS
+  plugin: sources.py
+  file: sources.yaml

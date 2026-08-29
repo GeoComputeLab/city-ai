@@ -1,0 +1,70 @@
+# site properties and page defaults
+title: CITY-AI
+subtitle: CyberTraining for AI-Enabled Intelligent Urban Informatics and Smart City Innovation
+description: An international CyberTraining network establishing CI, AI, and streaming analytics skills across disciplines to enable timely, data-driven urban management and smart city innovation.
+header: images/background.jpg
+footer: images/background.jpg
+proofer: false
+nsf_awards: "NSF Award Numbers: 2612144, 2612145, 2612146"
+
+# site social media and other links
+links:
+  email: fangzheng@vt.edu
+  github: GeoComputeLab
+
+### jekyll settings
+
+# front matter defaults
+defaults:
+  # all markdown files
+  - scope:
+      path: ""
+    values:
+      layout: default
+  # markdown files in /_members
+  - scope:
+      type: "members"
+    values:
+      layout: member
+  # markdown files in /_posts
+  - scope:
+      type: "posts"
+    values:
+      layout: post
+
+collections:
+  # generate page for each member
+  members:
+    output: true
+  # generate page for each post
+  posts:
+    output: true
+
+# jekyll plugins
+plugins:
+  - jekyll-spaceship
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jekyll-feed
+  - jekyll-last-modified-at
+
+# code block syntax highlighting
+highlighter: rouge
+
+# jekyll theme
+theme: null
+
+# sass settings
+sass:
+  sass_dir: _styles
+
+# force jekyll to include certain files/folders
+include:
+  - _styles
+  - _scripts
+
+# force jekyll to exclude certain files/folders
+exclude:
+  - README.md
+  - LICENSE.md
+  - CITATION.cff
