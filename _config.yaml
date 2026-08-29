@@ -1,4 +1,6 @@
 # site properties and page defaults
+url: "https://geocomputelab.github.io"
+baseurl: "/CityAI"
 title: CITY-AI
 subtitle: CyberTraining for AI-Enabled Intelligent Urban Informatics and Smart City Innovation
 description: An international CyberTraining network establishing CI, AI, and streaming analytics skills across disciplines to enable timely, data-driven urban management and smart city innovation.
