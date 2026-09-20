@@ -13,6 +13,4 @@ links:
   linkedin: iamrajbhattarai
 ---
 
-**Raj Bhattarai** is a geospatial researcher and MS student in the Department of Geography at Virginia Tech.
-
-His research focuses on GeoAI, remote sensing, and urban resilience. He and his advisor, Dr. Fangzheng Lyu, won 1st Place in the NSF-funded I-GUIDE Spatial AI Challenge 2025–26 for their project *MURD-ViT: Multimodal Urban Retrofitting Detection with Vision Transformer*.
+**Raj Bhattarai** is an M.S. student in Geography at Virginia Tech. He holds a B.E. in Geomatics from Kathmandu University in Nepal. His research focuses on GeoAI, Earth observation, and urban retrofitting, using computer vision and multimodal learning to detect and interpret changes in urban environments.
